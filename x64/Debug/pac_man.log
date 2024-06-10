@@ -1,0 +1,2 @@
+﻿  pac_man.cpp
+D:\Project\vs\pac_man\pac_man.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory

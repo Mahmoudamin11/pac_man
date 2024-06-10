@@ -1,0 +1,75 @@
+﻿  main.cpp
+D:\Project\vs\pac_man\main.cpp(111,38): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+D:\Project\vs\pac_man\main.cpp(144,104): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(144,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(151,104): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(151,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(159,104): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(159,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(391,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(391,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(402,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(402,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(497,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(497,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(518,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(518,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Project\vs\pac_man\main.cpp(720,35): warning C4018: '<=': signed/unsigned mismatch
+D:\Project\vs\pac_man\main.cpp(749,31): warning C4018: '<': signed/unsigned mismatch
+  pac_man.vcxproj -> D:\Project\vs\pac_man\Debug\pac_man.exe
